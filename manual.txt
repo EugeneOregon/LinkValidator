@@ -1,0 +1,7 @@
+"copy symbol" - copy the name of the google account, after which you need to add to the google sheet with the rights "can edit"
+"Check Link" - allows you to check a small number of links and display the result in the application window
+"Google Docs report" - allows you to generate a report in a Google spreadsheet. The list of links must be on the first sheet in the first column.Be sure to first add a Google account with the rights "can edit"Google account name: mom-s-seo@momsseo.iam.gserviceaccount.com
+"Excel report" - allows you to create a report in an excel spreadsheet. The list of links should be on the first sheet in the first column. File must be closed
+"Designed by Eugene" - link to the project repository in GitHub
+"Stop validate" - the button is not active. Activated during report generation. When pressed, stops the report generation process
+Monitors that display summary statistics and progress
